@@ -1,0 +1,4 @@
+{
+    "environment":"local",
+    "DB_STRING":"mongodb+srv://Harman:Harman@cluster0.7zlcmek.mongodb.net/trees"
+}
