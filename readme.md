@@ -1,2 +1,2 @@
-_**certificate generator mailing system**
+**certificate generator mailing system**
 
