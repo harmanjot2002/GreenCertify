@@ -14,10 +14,9 @@ const port = 3000;
 // Define certificatesDirectory
 const certificatesDirectory = path.join(__dirname, 'certificates');
 
-mongoose.connect('mongodb+srv://Harman:Harman@cluster0.7zlcmek.mongodb.net/greencertify', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-});
+
+const dB=require('./middlewares/DB');
+dB.connectToDb();
 
 app.use(expressFileUpload());
 app.use(express.static(path.join(__dirname, 'public')));
