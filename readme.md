@@ -19,9 +19,15 @@ User-Friendly Interface: A straightforward web interface for smooth user interac
 **Tech Stack:**
 
 Node.js
+
 Express
+
 MongoDB
+
 EJS (Embedded JavaScript)
+
 ExcelJS
+
 Nodemailer
+
 HTML-PDF
