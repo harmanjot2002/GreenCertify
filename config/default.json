@@ -1,4 +1,4 @@
 {
     "environment":"local",
-    "DB_STRING":"mongodb+srv://Harman:Harman@cluster0.7zlcmek.mongodb.net/greencertify"
+    "DB_STRING":"mongodb+srv://Harman:@cluster0.7zlcmek.mongodb.net/greencertify"
 }
