@@ -20,7 +20,7 @@ const submit=async(req,res)=>{
           service: 'gmail',
           auth: {
             user: 'harmanjot0555.be21@chitkara.edu.in',
-            pass: '',
+            pass: 'Kainth@1212@',
           },
         });
     
